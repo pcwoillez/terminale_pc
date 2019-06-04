@@ -7,5 +7,6 @@
 |Lois de Newton, vecteurs accélération,vitesse, position |Appliquer le principe fondamental de la dynamique pour des muvements simples|
 |Lois de Képler|Retrouver la loi des périodes avec le PFD|
 
-> Exemple
-> $y=ax+b$
+> Exemple:
+>
+> $\text{S}_1(N) = \sum_{p=1}^N \text{E}(p)$
